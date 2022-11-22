@@ -1,0 +1,1 @@
+export PATH="/opt/kotlin/bin:/opt/gradle/bin:$PATH"
